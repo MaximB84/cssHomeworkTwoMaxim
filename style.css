@@ -13,6 +13,9 @@ nav {
     background-color:chartreuse;
 }
 
+nav img {
+    width: 10%;
+}
 main {
     background-color: aqua;
     font-size: 90%;
