@@ -39,3 +39,10 @@ h1 {
 p {
     line-height:2.0;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: space-between;
+    gap: 10px;
+}
