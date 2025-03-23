@@ -46,3 +46,7 @@ p {
     justify-content: space-between;
     gap: 10px;
 }
+
+.grid img {
+    width: 100%;
+}
